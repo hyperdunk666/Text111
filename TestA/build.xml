@@ -1,0 +1,6 @@
+<?xml version="1.0"?>  
+<project name="TestA" default="Cal" basedir="">  
+    <target name="Cal">  
+        <copy file="C:\Users\net\workspace\TestA\src\work\Cal.java" tofile="build/test.txt" />  
+    </target>  
+</project>  
